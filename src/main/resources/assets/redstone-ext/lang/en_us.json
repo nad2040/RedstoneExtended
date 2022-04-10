@@ -1,0 +1,6 @@
+{
+  "block.redstone-ext.hex_block": "Hexadecimal Block",
+  "block.redstone-ext.memory_io_block": "Memory IO Block",
+  "block.redstone-ext.memory_io_block.too_much_data_error": "The Memory IO Block will only read 8 bytes.",
+  "block.redstone-ext.memory_io_block.odd_count_error": "The Memory IO Block will only read full bytes."
+}

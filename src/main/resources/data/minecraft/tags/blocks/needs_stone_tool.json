@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "redstone-ext:hex_block",
+    "redstone-ext:memory_io_block"
+  ]
+}

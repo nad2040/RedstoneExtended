@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "redstone-ext:block/memory_io_block" },
+    "facing=east":  { "model": "redstone-ext:block/memory_io_block", "y": 90 },
+    "facing=south": { "model": "redstone-ext:block/memory_io_block", "y": 180 },
+    "facing=west":  { "model": "redstone-ext:block/memory_io_block", "y": 270 }
+  }
+}

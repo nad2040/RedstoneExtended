@@ -1,0 +1,83 @@
+{
+  "variants": {
+    "facing=north,power=0": { "model": "redstone-ext:block/hex_block" },
+    "facing=east,power=0": { "model": "redstone-ext:block/hex_block", "y": 90 },
+    "facing=south,power=0": { "model": "redstone-ext:block/hex_block", "y": 180 },
+    "facing=west,power=0": { "model": "redstone-ext:block/hex_block", "y": 270 },
+
+    "facing=north,power=1": { "model": "redstone-ext:block/hex_block_1" },
+    "facing=east,power=1": { "model": "redstone-ext:block/hex_block_1", "y": 90 },
+    "facing=south,power=1": { "model": "redstone-ext:block/hex_block_1", "y": 180 },
+    "facing=west,power=1": { "model": "redstone-ext:block/hex_block_1", "y": 270 },
+
+    "facing=north,power=2": { "model": "redstone-ext:block/hex_block_2" },
+    "facing=east,power=2": { "model": "redstone-ext:block/hex_block_2", "y": 90 },
+    "facing=south,power=2": { "model": "redstone-ext:block/hex_block_2", "y": 180 },
+    "facing=west,power=2": { "model": "redstone-ext:block/hex_block_2", "y": 270 },
+
+    "facing=north,power=3": { "model": "redstone-ext:block/hex_block_3" },
+    "facing=east,power=3": { "model": "redstone-ext:block/hex_block_3", "y": 90 },
+    "facing=south,power=3": { "model": "redstone-ext:block/hex_block_3", "y": 180 },
+    "facing=west,power=3": { "model": "redstone-ext:block/hex_block_3", "y": 270 },
+
+    "facing=north,power=4": { "model": "redstone-ext:block/hex_block_4" },
+    "facing=east,power=4": { "model": "redstone-ext:block/hex_block_4", "y": 90 },
+    "facing=south,power=4": { "model": "redstone-ext:block/hex_block_4", "y": 180 },
+    "facing=west,power=4": { "model": "redstone-ext:block/hex_block_4", "y": 270 },
+
+    "facing=north,power=5": { "model": "redstone-ext:block/hex_block_5" },
+    "facing=east,power=5": { "model": "redstone-ext:block/hex_block_5", "y": 90 },
+    "facing=south,power=5": { "model": "redstone-ext:block/hex_block_5", "y": 180 },
+    "facing=west,power=5": { "model": "redstone-ext:block/hex_block_5", "y": 270 },
+
+    "facing=north,power=6": { "model": "redstone-ext:block/hex_block_6" },
+    "facing=east,power=6": { "model": "redstone-ext:block/hex_block_6", "y": 90 },
+    "facing=south,power=6": { "model": "redstone-ext:block/hex_block_6", "y": 180 },
+    "facing=west,power=6": { "model": "redstone-ext:block/hex_block_6", "y": 270 },
+
+    "facing=north,power=7": { "model": "redstone-ext:block/hex_block_7" },
+    "facing=east,power=7": { "model": "redstone-ext:block/hex_block_7", "y": 90 },
+    "facing=south,power=7": { "model": "redstone-ext:block/hex_block_7", "y": 180 },
+    "facing=west,power=7": { "model": "redstone-ext:block/hex_block_7", "y": 270 },
+
+    "facing=north,power=8": { "model": "redstone-ext:block/hex_block_8" },
+    "facing=east,power=8": { "model": "redstone-ext:block/hex_block_8", "y": 90 },
+    "facing=south,power=8": { "model": "redstone-ext:block/hex_block_8", "y": 180 },
+    "facing=west,power=8": { "model": "redstone-ext:block/hex_block_8", "y": 270 },
+
+    "facing=north,power=9": { "model": "redstone-ext:block/hex_block_9" },
+    "facing=east,power=9": { "model": "redstone-ext:block/hex_block_9", "y": 90 },
+    "facing=south,power=9": { "model": "redstone-ext:block/hex_block_9", "y": 180 },
+    "facing=west,power=9": { "model": "redstone-ext:block/hex_block_9", "y": 270 },
+
+    "facing=north,power=10": { "model": "redstone-ext:block/hex_block_a" },
+    "facing=east,power=10": { "model": "redstone-ext:block/hex_block_a", "y": 90 },
+    "facing=south,power=10": { "model": "redstone-ext:block/hex_block_a", "y": 180 },
+    "facing=west,power=10": { "model": "redstone-ext:block/hex_block_a", "y": 270 },
+
+    "facing=north,power=11": { "model": "redstone-ext:block/hex_block_b" },
+    "facing=east,power=11": { "model": "redstone-ext:block/hex_block_b", "y": 90 },
+    "facing=south,power=11": { "model": "redstone-ext:block/hex_block_b", "y": 180 },
+    "facing=west,power=11": { "model": "redstone-ext:block/hex_block_b", "y": 270 },
+
+    "facing=north,power=12": { "model": "redstone-ext:block/hex_block_c" },
+    "facing=east,power=12": { "model": "redstone-ext:block/hex_block_c", "y": 90 },
+    "facing=south,power=12": { "model": "redstone-ext:block/hex_block_c", "y": 180 },
+    "facing=west,power=12": { "model": "redstone-ext:block/hex_block_c", "y": 270 },
+
+    "facing=north,power=13": { "model": "redstone-ext:block/hex_block_d" },
+    "facing=east,power=13": { "model": "redstone-ext:block/hex_block_d", "y": 90 },
+    "facing=south,power=13": { "model": "redstone-ext:block/hex_block_d", "y": 180 },
+    "facing=west,power=13": { "model": "redstone-ext:block/hex_block_d", "y": 270 },
+
+    "facing=north,power=14": { "model": "redstone-ext:block/hex_block_e" },
+    "facing=east,power=14": { "model": "redstone-ext:block/hex_block_e", "y": 90 },
+    "facing=south,power=14": { "model": "redstone-ext:block/hex_block_e", "y": 180 },
+    "facing=west,power=14": { "model": "redstone-ext:block/hex_block_e", "y": 270 },
+
+    "facing=north,power=15": { "model": "redstone-ext:block/hex_block_f" },
+    "facing=east,power=15": { "model": "redstone-ext:block/hex_block_f", "y": 90 },
+    "facing=south,power=15": { "model": "redstone-ext:block/hex_block_f", "y": 180 },
+    "facing=west,power=15": { "model": "redstone-ext:block/hex_block_f", "y": 270 }
+  }
+}
